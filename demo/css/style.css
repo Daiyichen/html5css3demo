@@ -1,0 +1,10 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem; /* =16px */
+}
+
+.blog-entry-img{border: 1px solid #eee;}
+.blog-entry-text h1{font-size: 1.8rem;}
